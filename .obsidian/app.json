@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "livePreview": false,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "showIndentGuide": true,
+  "useMarkdownLinks": false
+}

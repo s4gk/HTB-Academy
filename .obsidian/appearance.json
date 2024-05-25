@@ -1,0 +1,17 @@
+{
+  "accentColor": "#a0ec04",
+  "nativeMenus": true,
+  "cssTheme": "Polka",
+  "enabledCssSnippets": [
+    "bold-color",
+    "custom-icons-differing-files-and-folders",
+    "page_width"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}
